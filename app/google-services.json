@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1018695739151",
+    "firebase_url": "https://transportdisplay-d4dae.firebaseio.com",
+    "project_id": "transportdisplay-d4dae",
+    "storage_bucket": "transportdisplay-d4dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018695739151:android:b48319b877738227",
+        "android_client_info": {
+          "package_name": "com.example.agniva.transportdisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018695739151-pufsp19aj37qljuhjmr128bboha1f527.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agniva.transportdisplay",
+            "certificate_hash": "980a4e57b0364f0e7235b52141029e5c00528c43"
+          }
+        },
+        {
+          "client_id": "1018695739151-46ads7556gar2td63qnisssop4fmd705.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8CTcZbm6pRws6tKTOu4_pk5yp5rcpfpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018695739151-46ads7556gar2td63qnisssop4fmd705.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
